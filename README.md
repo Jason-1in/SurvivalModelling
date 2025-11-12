@@ -1,2 +1,7 @@
-Survival Modelling with Kaggle Database 
+Survival Modelling with Kaggle Database for Lung Cancer 
+
+
+Prediction 
+
+
 
